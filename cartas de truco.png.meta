@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: 724603a8ff1bba245b05148154f08f32
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartas de truco_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6526ff68d2c0d45b264ac57b66c328
+      internalID: 1741826734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfffa13041317d141a5de71e9dd048da
+      internalID: -198564753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5891225a5a65f14d93768fe64d3db47
+      internalID: -1020441097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_4
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5edb4a28d4aad84885a6e9b0301ace6
+      internalID: -1283518222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542ed536a80841948b7b1900a029995f
+      internalID: 948685377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_6
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0d8740205ac05449afd87ad832cc37
+      internalID: -617725715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_9
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80fa784a6da6fa4eba3f5db6b06282e
+      internalID: -1090139867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_10
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c8f119bf5a54439adde820470c429
+      internalID: 935548736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195387b325bda14895b61c5d2ada46e
+      internalID: -506429211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51534dce233ca4899c61665d36185f
+      internalID: -2011643952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df89e866846bf9f469422e6d1fb17839
+      internalID: 1662311742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0812eb10a2bd874d87366b875bbd879
+      internalID: -2099005611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94a2e5615c01f040a70f52705ee6760
+      internalID: 2097052238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3332d9e9f437dca47b21891effb64cf3
+      internalID: 1885350908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa86632c092f58643b0b842cca1276c9
+      internalID: -1481846344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_18
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eb61925b90ea8428d304d06f63389b
+      internalID: -1411056356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_21
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4626408dd84c44e47940136c27523ac7
+      internalID: 879451864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_22
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e126689b383f8949ae5d8e0e3678e43
+      internalID: -1634013951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_23
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 957
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf324da646716b4bb27e5624d6d63f8
+      internalID: -1633173935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9433ad226137c5448e7ffdc9be1603f
+      internalID: -784001869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877fb5c5716e73e4091fe5c63c170bf4
+      internalID: -1609442316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b0b09c45ce9940bfa464c072eb07e
+      internalID: -627876316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_27
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635c78f96d3f8a4a9c4062aed68a887
+      internalID: 11876616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b2c5eeaab0244c892001ab2dd5342
+      internalID: -180234884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_29
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4589a2e70a3144ea2e55f7f2493d1a
+      internalID: -454521189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_30
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ecdbbfc58f92743a5ac68cd6043f71
+      internalID: -784074557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_33
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb725a794ced32498eaee58bd37b89a
+      internalID: 1514603943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_34
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407a22adbd7e2b43af4a0d1863300f0
+      internalID: 401735051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_35
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 638
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e1fa5e3a6105d4d946c8d0fad244e4
+      internalID: 2002607993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c1546814e2aba419e055e048795c60
+      internalID: -546593044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a960d634f99ffb4fafc983e79443e8e
+      internalID: -1901655468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_38
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505628ea524815747bcf076b7365daad
+      internalID: 1844180336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_39
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaa8ba901ac34a4dbc333744d2b3943
+      internalID: -1517716213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10362a575741dd44793e1705f3958f97
+      internalID: 1009615740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_41
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03da424729a814e9a8588e76b4cde5
+      internalID: 255265622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_42
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b343d1a89e104b8918901046c5ff2
+      internalID: 1308469301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_45
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315aea7be062e0c48a51cf6b09a98117
+      internalID: 586356921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_46
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 321
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3100ddd1af513ce4781e631eab50dd63
+      internalID: 187632620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_47
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 319
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc7967700be4244bb03b1b050423ec
+      internalID: -401887137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e34b3cfdf1517b44b9895cd168cca02
+      internalID: 580774854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5907927dd33da1e4db0ea143429bf9cc
+      internalID: -1947010775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartas de truco_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1276
+        width: 208
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d1eaf02f2e1e418429102b1a7e5d9
+      internalID: -1298849956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cartas de truco_1: 1741826734
+      cartas de truco_49: -1947010775
+      cartas de truco_42: 1308469301
+      cartas de truco_57: -1254425547
+      cartas de truco_24: -784001869
+      cartas de truco_31: 883200254
+      cartas de truco_33: 1514603943
+      cartas de truco_37: -1901655468
+      cartas de truco_0: -1298849956
+      cartas de truco_3: -1020441097
+      cartas de truco_38: 1844180336
+      cartas de truco_54: 1946255811
+      cartas de truco_6: -617725715
+      cartas de truco_44: -1357475392
+      cartas de truco_9: -1090139867
+      cartas de truco_11: -506429211
+      cartas de truco_53: -281102036
+      cartas de truco_48: 580774854
+      cartas de truco_19: -765688216
+      cartas de truco_10: 935548736
+      cartas de truco_15: 2097052238
+      cartas de truco_52: 863522261
+      cartas de truco_34: 401735051
+      cartas de truco_43: 707668501
+      cartas de truco_14: -2099005611
+      cartas de truco_21: 879451864
+      cartas de truco_59: -2019790648
+      cartas de truco_35: 2002607993
+      cartas de truco_23: -1633173935
+      cartas de truco_45: 586356921
+      cartas de truco_36: -546593044
+      cartas de truco_56: -1389236405
+      cartas de truco_40: 1009615740
+      cartas de truco_2: -198564753
+      cartas de truco_51: 404763401
+      cartas de truco_41: 255265622
+      cartas de truco_50: 478186732
+      cartas de truco_25: -1609442316
+      cartas de truco_22: -1634013951
+      cartas de truco_47: -401887137
+      cartas de truco_39: -1517716213
+      cartas de truco_46: 187632620
+      cartas de truco_26: -627876316
+      cartas de truco_4: -1283518222
+      cartas de truco_7: 1713820542
+      cartas de truco_32: -384462719
+      cartas de truco_28: -180234884
+      cartas de truco_58: 1676360415
+      cartas de truco_27: 11876616
+      cartas de truco_8: -133485480
+      cartas de truco_20: 215750689
+      cartas de truco_16: 1885350908
+      cartas de truco_17: -1481846344
+      cartas de truco_18: -1411056356
+      cartas de truco_12: -2011643952
+      cartas de truco_30: -784074557
+      cartas de truco_5: 948685377
+      cartas de truco_13: 1662311742
+      cartas de truco_29: -454521189
+      cartas de truco_55: 1922148419
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
